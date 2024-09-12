@@ -1,0 +1,2 @@
+## every 5 minutes and 30 seconds push a four letter word to flip disc
+*/5 * * * * sleep 30 && /web/push-four/push.sh
